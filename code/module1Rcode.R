@@ -1,5 +1,6 @@
 setwd("E:/wisc/628/module 1")
 BodyFat <- read.csv("BodyFat.csv")
+BodyFat = BodyFat[BodyFat$BODYFAT!=0,]
 model = lm(BODYFAT~.,data=BodyFat[,c(-1,-3)])  #we can not measure density directly
 plot(model,which=4)
 abline(h=4/(252-13),lty=2)
