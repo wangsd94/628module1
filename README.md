@@ -1,10 +1,8 @@
-# 628Module1 Project
+# 628Module1 Project---Estimating BodyFat with a SLR model
 
-## Main Job
-   Estimate BodyFat using a SLR model.
 ## Getting Started
    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
+   
 ## Prerequisites
 #### What softwares you need to install and how to install them
 1. Download and install **Anoconda**:  https://www.anaconda.com/download/
