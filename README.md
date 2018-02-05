@@ -1,15 +1,15 @@
 # 628Module1 Project
 
 ## Main Job
-        Estimate BodyFat using a SLR model.
+   Estimate BodyFat using a SLR model.
 ## Getting Started
-        These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+   These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
 #### What things you need to install the software and how to install them
-        1. Download and install Anoconda:  https://www.anaconda.com/download/
-        2. Install Ipython:  https://jupyter.readthedocs.io/en/latest/install.html
-         How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
+1. Download and install **Anoconda**:  https://www.anaconda.com/download/
+2. Install **Ipython**:  https://jupyter.readthedocs.io/en/latest/install.html
+         
         
 ## Contents of Repository
 #### 1.Folder plot: 
@@ -18,31 +18,31 @@
   
 #### 2.Folder DATA: 
 
-        BodyFat.csv : The raw data;
+   **BodyFat.csv** : The raw data;
   
-        cleaned_data.csv: the cleaned data.
+   **cleaned_data.csv**: the cleaned data.
         
 #### 3. Folder code:
 
-        module1RcodeFinal.R: The R code for all steps of the cleaning data, modeling and prediction. And all of the pictures are produced from this R code.
+   **module1RcodeFinal.R**: The R code for all steps of the cleaning data, modeling and prediction. And all of the pictures are produced from this R code.
   
 #### 4.Model1Jupyter.ipynb:
 
-        Summary written by Ipython notebook.
+   Summary written by Ipython notebook.
         
 #### 5.Model1Jupyter.pdf:
 
-        The pdf produced from ModelJupyter.ipynb     
+   The pdf produced from ModelJupyter.ipynb     
         
 #### 6.Model1Jupyter.html:
 
-        The html produced from ModelJupyter.ipynb         
+   The html produced from ModelJupyter.ipynb         
   
 ## Usage
 
-        How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
+   How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
 
 
 ## Authors
 
-        Wed-Group6: Shaodong Wang, Jing Guo, Jiayin Wang, Wenqin Xiong
+   Wed-Group6: Shaodong Wang, Jing Guo, Jiayin Wang, Wenqin Xiong
