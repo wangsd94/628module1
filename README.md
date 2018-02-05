@@ -14,9 +14,9 @@
   
 #### 2.Folder DATA: 
 
-        **BodyFat.csv** : The raw data;
+        BodyFat.csv : The raw data;
   
-        **cleaned_data.csv** : the cleaned data.
+        cleaned_data.csv: the cleaned data.
         
 #### 3. Folder code:
 
@@ -34,8 +34,10 @@
 
         The html produced from ModelJupyter.ipynb         
   
-### Usage
+## Usage
+
+        How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
 
-### Authors
+## Authors
 Wed-Group6: Shaodong Wang, Jing Guo, Jiayin Wang, Wenqin Xiong
