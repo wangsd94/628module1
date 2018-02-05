@@ -4,7 +4,7 @@
 
 ## Prerequisites
 #### What things you need to install the software and how to install them
-         1. Download and install **Anoconda**:https://www.anaconda.com/download/
+         1. Download and install Anoconda: https://www.anaconda.com/download/
          2. Install Ipython: https://jupyter.readthedocs.io/en/latest/install.html
         
 ## Contents of Repository
@@ -14,16 +14,25 @@
   
 #### 2.Folder DATA: 
 
-        **BodyFat.csv**: The raw data;
+        ** BodyFat.csv **: The raw data;
   
-        **cleaned_data.csv**: the cleaned data.
+        ** cleaned_data.csv **: the cleaned data.
   
-#### 3.Model1Jupyter.ipynb(pdf/html):
+#### 3.Model1Jupyter.ipynb:
 
-        Summary written by Ipython notebook and the pdf as well as html produced from the Ipython Notebook.
+        Summary written by Ipython notebook.
         
-#### 4.Code:
+#### 4.Model1Jupyter.pdf:
+
+        The pdf produced from ModelJupyter.ipynb     
+        
+#### 5.Model1Jupyter.html:
+
+        The html produced from ModelJupyter.ipynb         
+        
+#### 6.Code:
   
+        
 
 ### Usage
 
