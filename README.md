@@ -18,13 +18,14 @@
   
 #### 2.Folder DATA: 
 
-   **BodyFat.csv** : The raw data;
+   **BodyFat.csv** : The raw data.
   
-   **cleaned_data.csv**: the cleaned data.
+   **cleaned_data.csv**: The cleaned data.
         
 #### 3. Folder code:
 
-   **module1RcodeFinal.R**: The R code for all steps of the cleaning data, modeling and prediction. And all of the pictures are produced from this R code.
+   **module1RcodeFinal.R**: 
+   The R code for all steps of the cleaning data, modeling and prediction. And all of the pictures are produced from this R code.
   
 #### 4.Model1Jupyter.ipynb:
 
