@@ -12,17 +12,17 @@
          
         
 ## Contents of Repository
-#### 1.Folder plot: 
+#### 1.Folder /plot: 
 
    13 plots produced from the whole process of modeling.
   
-#### 2.Folder DATA: 
+#### 2.Folder /DATA: 
 
    **BodyFat.csv** : The raw data.
   
    **cleaned_data.csv**: The cleaned data.
         
-#### 3. Folder code:
+#### 3. Folder /code:
 
    **module1RcodeFinal.R**: 
    
