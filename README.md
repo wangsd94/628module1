@@ -6,7 +6,7 @@
    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-#### What things you need to install the software and how to install them
+#### What softwares you need to install and how to install them
 1. Download and install **Anoconda**:  https://www.anaconda.com/download/
 2. Install **Ipython**:  https://jupyter.readthedocs.io/en/latest/install.html
          
