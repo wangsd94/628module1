@@ -35,8 +35,8 @@
         The html produced from ModelJupyter.ipynb         
   
 ## Usage
-
-        How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+        \usepackage[colorlinks,linkcolor=red]{hyperref}
+        \href{http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html} {How to run ipython} 
 
 
 ## Authors
