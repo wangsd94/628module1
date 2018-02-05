@@ -1,4 +1,7 @@
-# 628module1
+# 628Module1 Project
+
+## Main Job
+        Estimate BodyFat using a SLR model.
 ## Getting Started
         These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -35,8 +38,8 @@
         The html produced from ModelJupyter.ipynb         
   
 ## Usage
-        \usepackage[colorlinks,linkcolor=red]{hyperref}
-        \href{http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html} {How to run ipython} 
+
+       How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
 
 
 ## Authors
