@@ -14,7 +14,7 @@
 ## Contents of Repository
 #### 1.Folder plot: 
 
-        13 plots produced from the whole process of modeling.
+   13 plots produced from the whole process of modeling.
   
 #### 2.Folder DATA: 
 
