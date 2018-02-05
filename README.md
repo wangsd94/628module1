@@ -11,4 +11,4 @@
 
 
 
-3.     Summary using Ipython notebook and the pdf produced from Ipython Notebook.
+3.     Model1Jupyter.ipython(pdf/html):Summary using Ipython notebook and the pdf produced from Ipython Notebook.
