@@ -1,4 +1,4 @@
-# 628Module1 Project---Estimating BodyFat with a SLR model
+# 628Module1: Estimating BodyFat with a SLR model
 
 ## Getting Started
    These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
