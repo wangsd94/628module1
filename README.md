@@ -7,8 +7,9 @@
 
 ## Prerequisites
 #### What things you need to install the software and how to install them
-         1. Download and install Anoconda:  https://www.anaconda.com/download/
-         2. Install Ipython:  https://jupyter.readthedocs.io/en/latest/install.html
+        1. Download and install Anoconda:  https://www.anaconda.com/download/
+        2. Install Ipython:  https://jupyter.readthedocs.io/en/latest/install.html
+         How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
         
 ## Contents of Repository
 #### 1.Folder plot: 
@@ -39,8 +40,9 @@
   
 ## Usage
 
-       How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
+        How to run ipython: http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html 
 
 
 ## Authors
-Wed-Group6: Shaodong Wang, Jing Guo, Jiayin Wang, Wenqin Xiong
+
+        Wed-Group6: Shaodong Wang, Jing Guo, Jiayin Wang, Wenqin Xiong
