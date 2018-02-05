@@ -7,8 +7,8 @@
 
 ## Prerequisites
 #### What things you need to install the software and how to install them
-         1. Download and install Anoconda: https://www.anaconda.com/download/
-         2. Install Ipython: https://jupyter.readthedocs.io/en/latest/install.html
+         1. Download and install Anoconda:  https://www.anaconda.com/download/
+         2. Install Ipython:  https://jupyter.readthedocs.io/en/latest/install.html
         
 ## Contents of Repository
 #### 1.Folder plot: 
